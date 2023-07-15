@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rayanna Dunn
+- 👋 Hi, I’m Ray-Dunn
 - 👀 I’m interested in software development and front-end web design
 - 🌱 I’m currently earning my degree in Associate of Information Technology
 - 💞️ I’m looking to collaborate on ...
